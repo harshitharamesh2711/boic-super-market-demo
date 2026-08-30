@@ -1,0 +1,7 @@
+{
+  "name": "BoiC Small Super Market",
+  "description": "Your local neighborhood supermarket for fresh groceries, produce, snacks, dairy, and everyday essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
